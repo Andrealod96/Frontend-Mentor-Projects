@@ -1,1 +1,1 @@
-Just my first Frontend Mentor's challenge :) -2024/01/26
+Just my Frontend Mentor's challenges :) -2024/01/26
